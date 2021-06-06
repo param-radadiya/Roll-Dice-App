@@ -4,4 +4,4 @@
 
 ### Here, are soome screen shoot of Application
 
-https://github.com/param-radadiya/Roll-Dice-App/blob/main/Screen%20Shoots/1.jpg
+![plot](https://github.com/param-radadiya/Roll-Dice-App/blob/main/Screen%20Shoots/1.jpg)
